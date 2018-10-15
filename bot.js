@@ -18,7 +18,7 @@ var SteamTrade = new SteamTrade();
 
 client.logOn({
    "accountName": "steamvacreport",
-   "password": "izzetefe15"
+   "password": "55iz3zet123123"
  });
 
  client.on("loggedOn", function(details){
